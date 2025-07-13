@@ -10,7 +10,7 @@ const parseCid = (url) => {
   const parts = url.pathname.split('/')
   const ipfs = parts[1]
   const cid = parts[2]
-  const isIpfs = cid && cid.length > 0 && ipfs && ipfs === 'ipfs'
+  const isIpfs = ipfs && ipfs === 'ipfs' && cid && cid.length > 0
   if (!isIpfs) { return null }
   return cid
 }
