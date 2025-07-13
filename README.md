@@ -26,7 +26,7 @@ In this way Cloudflare nor any other gateway need be trusted
 + Create a Cloudflare account
 + Type "R2" in the console search bar
 + Add a credit card which will be billed if you go over [free tier](https://developers.cloudflare.com/r2/pricing/#free-tier)
-+ Create a bucket and enabled CORS "*"
++ Create a bucket and enable CORS "*"
 + Manage API tokens > Create API token > Object Read & Write
 
 ## Disclaimer
