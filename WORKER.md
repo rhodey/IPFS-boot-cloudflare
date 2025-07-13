@@ -1,6 +1,8 @@
 # IPFS-boot-cloudflare
 Cloudflare Workers = faster gateway
 
+Parent repo = [IPFS-boot](https://github.com/rhodey/IPFS-boot)
+
 ## How to
 These next steps all build on the bucket you just setup
 + Login to Cloudflare
