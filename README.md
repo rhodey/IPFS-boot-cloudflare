@@ -35,5 +35,9 @@ In this way Cloudflare nor any other gateway need be trusted
 + Setup your Cloudflare bucket to use "custom domain"
 + The "development url" seems to rate limit sometimes
 
+## Also
++ Cloudflare R2 is used in addition to a list of default gateways (resilient!)
++ See [WORKER.md](https://github.com/rhodey/IPFS-boot-cloudflare/blob/master/WORKER.md) for adding cache layer (faster!)
+
 ## License
 MIT - Copyright 2025 - mike@rhodey.org
