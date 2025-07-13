@@ -16,7 +16,7 @@ pin_cloudflare_access=abc123
 pin_cloudflare_secret=abc123
 ```
 
-All docs about pin and publish continue to work the same except now your app is booted also from Cloudflare
+All docs about pin and publish continue to work the same except now your app is loaded also from Cloudflare
 
 IPFS-boot uses [verifiedFetch](https://github.com/ipfs/helia-verified-fetch) such that every file fetched is checked by hash against CID
 
