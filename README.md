@@ -26,8 +26,6 @@ All docs about pin and publish continue to work the same except now your app is 
 + Manage API tokens > Create API token > Object Read & Write
 
 ## Disclaimer
-+ The result is suitable for use with [verifiedFetch](https://github.com/ipfs/helia-verified-fetch)
-+ The result will not be a url which get pasted into the url bar
 + Setup your Cloudflare bucket to use "custom domain"
 + The "development url" seems to rate limit sometimes
 
