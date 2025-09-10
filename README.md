@@ -34,4 +34,4 @@ All docs about pin and publish continue to work the same except now your app is 
 + See [WORKER.md](https://github.com/rhodey/IPFS-boot-cloudflare/blob/master/WORKER.md) for adding cache layer (faster!)
 
 ## License
-MIT - Copyright 2025 - mike@rhodey.org
+MIT
