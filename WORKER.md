@@ -34,4 +34,4 @@ For example domain = ipfs.lock.host
 + should see "cache hit" in worker logs
 
 ## License
-MIT - Copyright 2025 - mike@rhodey.org
+MIT
