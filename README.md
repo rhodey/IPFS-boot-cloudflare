@@ -31,7 +31,7 @@ All docs about pin and publish continue to work the same except now your app is 
 
 ## Also
 + Cloudflare R2 is used in addition to a list of default gateways (resilient!)
-+ See [WORKER.md](https://github.com/rhodey/IPFS-boot-cloudflare/blob/master/WORKER.md) for adding cache layer (faster!)
++ See [WORKER.md](/WORKER.md) for adding cache layer (faster!)
 
 ## License
 MIT
